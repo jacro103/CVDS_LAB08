@@ -1,4 +1,3 @@
-# CVDS_Lab05
- * Sebastian Blanco
+# CVDS_Lab08
  * Jose Correa
 
